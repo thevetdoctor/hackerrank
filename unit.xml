@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.0030" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2021-09-30T19:47:48" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="sample_tests" timestamp="2021-09-30T19:47:48" tests="1" file="/projects/challenge/test/test.js" time="2.0030" failures="1">
+    <testcase name="sample_tests test 0" time="2.0030" classname="test 0">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves." type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
